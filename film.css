@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap'); 
+ body{
+    background-color: #000201;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#data-output{
+    background-color:white;
+    
+}
+.bi{
+    color: antiquewhite;
+}
+.background{
+    height: 450px;
+}
+h1{
+    font-weight: 700;
+   font-size: 120px;
+   
+}
+h2{
+   font-size: 50px;
+   margin-top: -5px;
+   
+}
+input.transparent-input{
+    background-color:rgba(0,0,0,0);
+    border-color: white;
+ }
